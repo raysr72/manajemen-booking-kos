@@ -1,7 +1,3 @@
-# Pemodelan Sistem & Arsitektur (System Modeling)
-
-## Sistem Manajemen & Reservasi Kos Titik Kumpul
-
 Dokumen ini memuat rancangan pemodelan, arsitektur aliran data, serta perancangan basis data relasional untuk sistem pemesanan kos berbasis web yang terintegrasi dengan notifikasi otomatis Bot WhatsApp.
 
 ---
