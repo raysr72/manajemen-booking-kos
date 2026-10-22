@@ -1,9 +1,3 @@
-# Business Requirement Document (BRD)
-
-## Sistem Manajemen & Reservasi Kos Titik Kumpul
-
----
-
 ## Business Background
 
 Sistem Manajemen & Reservasi Kos Titik Kumpul dikembangkan untuk merespon kebutuhan digitalisasi di industri manajemen properti sewa (kamar kos). Latar belakang pengembangan ini didasarkan pada tingginya mobilitas calon penyewa dari luar daerah yang membutuhkan kemudahan akses informasi spesifikasi kamar dan visualisasi detail tanpa harus melakukan kunjungan fisik langsung ke lokasi kos, serta pentingnya sentralisasi data operasional dan finansial yang profesional.
