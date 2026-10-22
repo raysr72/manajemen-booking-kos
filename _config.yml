@@ -4,3 +4,5 @@ theme: minima
 
 # Menyesuaikan konfigurasi tambahan untuk tema minima
 show_downloads: true
+url: "https://raysr72.github.io"
+baseurl: "/manajemen-booking-kos"
