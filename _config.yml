@@ -2,7 +2,6 @@ title: Dokumentasi Sistem Manajemen Booking-Kos
 description: Dokumentasi teknis, analisis kebutuhan bisnis, dan pemodelan sistem.
 theme: minima
 
-# Menyesuaikan konfigurasi tambahan untuk tema minima
-show_downloads: true
+# Pengaturan URL untuk Project Repository di GitHub Pages
 url: "https://raysr72.github.io"
 baseurl: "/manajemen-booking-kos"
