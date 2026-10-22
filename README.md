@@ -1,4 +1,3 @@
-# Booking Kos
 
 Dokumentasi dari perancangan sistem informasi manajemen kos digital yang mentransformasikan proses manual menjadi arsitektur aplikasi web terintegrasi dan efisien.
 
