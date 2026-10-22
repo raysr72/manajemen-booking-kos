@@ -1,5 +1,3 @@
-# Functional & Non-Functional Requirement
-
 ## Functional Requirement
 
 | ID | Modul / Fitur | Perilaku Sistem |
