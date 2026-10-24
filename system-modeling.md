@@ -33,7 +33,7 @@ Diagram Konteks menggambarkan batasan sistem secara makro dengan memetakan inter
 
 Diagram Alir Data Level 1 memetakan dekomposisi proses operasional utama sistem ke dalam subsistem fungsional yang terhubung langsung dengan *data store* internal.
 
-![diagram flow diagram](img/dfd.png)
+![diagram flow diagram](img/DFD.png)
 
 ### Aktivitas / Proses yang Terlibat:
 * **Proses 1.0 (Registrasi & Autentikasi):** Mengelola pendaftaran akun baru dan verifikasi *login* pengguna ke penyimpanan tabel `users`.
